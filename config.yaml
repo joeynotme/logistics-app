@@ -1,0 +1,6 @@
+# 运输规则配置
+base_rate: 2.0          # 默认每英里价格
+surcharge_threshold: 500 # 超过多少英里开始加收更多
+low_surcharge_rate: 0.05 # 短途附加费率 (5%)
+high_surcharge_rate: 0.10 # 长途附加费率 (10%)
+company_name: "QDRO Logistics Inc."
